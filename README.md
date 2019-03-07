@@ -3,7 +3,7 @@
 ### Content
 
 This repository contains the source code used to derive the electrification results for Malawi according to inputs and assumptions presented in the academic paper.
-Note that the published paper is openly available at [placeholder].
+Note that the published paper is openly available at [placeholder]().
 
 ### How-to-use Instructions 
 
