@@ -1,9 +1,11 @@
-# OnSSET-2018 (as used in Malawi paper)
+# OnSSET-2018
+
+Updated version of the OnSSET model; including updates as of February 2019. 
 
 ### Content
 
 This repository contains the source code used to derive the electrification results for Malawi according to inputs and assumptions presented in the academic paper.
-Note that the published paper is openly available at [placeholder]().
+Note that the published paper is openly available [here](https://doi.org/10.3390/en12071395).
 
 ### How-to-use Instructions 
 
@@ -31,11 +33,10 @@ Both onsset.py and runner.py files are supported by the "TODO" functionality. Th
 
 ### Supplementary material
 
-- The academic publication supporting this work is available at [placeholder]().
+- The academic publication supporting this work is available at [Energies](https://doi.org/10.3390/en12071395).
 - The GIS layers that have been used in this analysis (as described in Annex A of the paper) are available at [placeholder]().
 - Extracting GIS attributes to population clusters (vectors) can be automated using a QGIS plugin developed by KTH dESA, available [here](https://github.com/KTH-dESA/Cluster-based_extraction_OnSSET)
 - Result files for all electrification scenarios discussed in the above academic paper are available [here](https://drive.google.com/drive/u/2/folders/1tJXdspYlKEY-pmEbvglkdPqD6uhWkL7Z).
 - More information regarding OnSSET is available at [OnSSET manual](https://onsset-manual.readthedocs.io/en/latest/).
 
 - For any additional information please contact the KTH team [here.](http://www.onsset.org/contact--forum.html)
-
